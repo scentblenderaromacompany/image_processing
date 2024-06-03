@@ -1,0 +1,20 @@
+{
+  "editor.suggest.preview": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveWhenNoErrors": true,
+  "files.autoSaveWorkspaceFilesOnly": false,
+  "workbench.editor.autoLockGroups": {
+    "workbench.input.interactive": true
+  },
+  "editor.minimap.autohide": true,
+  "window.autoDetectColorScheme": false,
+  "window.closeWhenEmpty": true,
+  "window.density.editorTabHeight": "compact",
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+  "terminal.integrated.enableVisualBell": true,
+  "terminal.integrated.fastScrollSensitivity": 1,
+  "jupyter.exportWithOutputEnabled": true,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
+}
